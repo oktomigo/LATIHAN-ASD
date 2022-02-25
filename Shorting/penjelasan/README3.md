@@ -7,7 +7,7 @@
     <li><a href="#insertion sort">Insertion Sort</a></li>
     <li><a href="#Selection sort">Selection Sort</a></li>
     <h4>1. penjelasan</h4>
-     <br>Selection Sort merupakan salah satu algoritma sorting yang populer dan cukup sering digunakan.
+     Selection Sort merupakan salah satu algoritma sorting yang populer dan cukup sering digunakan.
      berikut algoritma dari selection sort
      <br>a. langkah pertama program akan mencari data terkecil (data dengan nilai terkecil) dari semua data. kemudian ditukar nilainya dengan data pertama.
      <br>b. Kemudian program akan kembali mencari data terkecil dari data kedua sampai data yang terakhir, kemudian ditukar nilainya dengan data kedua (data terkecil kedua                     ditukan posisinya dengan data kedua).
