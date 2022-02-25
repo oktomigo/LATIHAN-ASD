@@ -16,7 +16,7 @@
     <br>f. Setelah semua kartu terurut, satu set kartu yang sudah terurut akan disimpan kembali ke meja.
     <h4>2. https://github.com/oktomigo/LATIHAN-ASD/blob/c7cb2f34579d0975c645c002d1702ae8b5b1bf29/Shorting/Insertion%20Sort.c</h4>
     <h4>3. printscreen program</h4>
-    <img src="insertion sort.png" />
+    <p>(https://user-images.githubusercontent.com/99226882/155777131-5b9f57ea-4818-495f-b3fd-8b7fe952475c.jpg)</p>
     <li><a href="https://github.com/oktomigo/LATIHAN-ASD/blob/05605d27572be053f7ce4d9f800ed6e3864ceb98/Shorting/penjelasan/README3.md">Selection Sort</a></li>
     <li><a href="https://github.com/oktomigo/LATIHAN-ASD/blob/d239323292788c8edf53bfc4d0b5057edc23926a/Shorting/penjelasan/README4.md">latihan 1</a></li>
 </body>
