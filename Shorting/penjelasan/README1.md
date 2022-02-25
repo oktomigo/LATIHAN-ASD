@@ -3,7 +3,7 @@
     <h2>Shorting</h2>
 </head>
 <body>
-    <li><a href="#Bubble Sort">Bubble Sord</a></li>
+    <li><a href="https://github.com/oktomigo/LATIHAN-ASD/blob/0e898534cbfea23dd451e106181eabea76b25f0a/Shorting/penjelasan/README1.md">Bubble Sord</a></li>
     <h4>1. pengertian</h4>
     Bubble Sort adalah salah satu algoritma pengurutan dimana melakukan penukaran data dengan sebelahnya secara berulang-ulang sampai semua terurut dengan benar. Untuk             mengetahui proses pengurutan ada dibagian kesimpulan.
     <br>algoritma bubble sort
