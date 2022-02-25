@@ -18,6 +18,6 @@
     <h4>3. printscreen program</h4>
     <img src="insertion sort.png" />
     <li><a href="https://github.com/oktomigo/LATIHAN-ASD/blob/05605d27572be053f7ce4d9f800ed6e3864ceb98/Shorting/penjelasan/README3.md">Selection Sort</a></li>
-    <li><a href="#latihan">latihan 1</a></li>
+    <li><a href="https://github.com/oktomigo/LATIHAN-ASD/blob/d239323292788c8edf53bfc4d0b5057edc23926a/Shorting/penjelasan/README4.md">latihan 1</a></li>
 </body>
 </html>
