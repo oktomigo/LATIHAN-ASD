@@ -3,7 +3,7 @@
     <h2>Shorting</h2>
 </head>
 <body>
-    <li><a href="#Bubble Sort">Bubble Sord</a></li>
+    <li><a href="https://github.com/oktomigo/LATIHAN-ASD/blob/1230366745b1612acf4c1e43a6c4557ff6e9a033/Shorting/penjelasan/README1.md">Bubble Sord</a></li>
     <li><a href="#insertion sort">Insertion Sort</a></li>
     <li><a href="https://github.com/oktomigo/LATIHAN-ASD/blob/6ee9c271af21c24e45d59d8263fb678ea6ad8924/Shorting/penjelasan/README3.md">Selection Sort</a></li>
     <h4>1. penjelasan</h4>
