@@ -6,7 +6,7 @@
     <li><a href="https://github.com/oktomigo/LATIHAN-ASD/blob/d0da7738dd982c276d4d6d6b9b30c1ac7da296c9/Shorting/penjelasan/README1.md">Bubble Sord</a></li>
     <li><a href="https://github.com/oktomigo/LATIHAN-ASD/blob/e2b1a59ddeb56ea61e7c6f37d5763066d3cc618d/Shorting/penjelasan/README2.md">Insertion Sort</a></li>
     <li><a href="https://github.com/oktomigo/LATIHAN-ASD/blob/ad81bdce42aaef6345468c8843f5652a0673de8f/Shorting/penjelasan/README3.md">Selection Sort</a></li>
-    <li><a href="#latihan">latihan 1</a></li>
+    <li><a href="https://github.com/oktomigo/LATIHAN-ASD/blob/50c0b5c26837c8bb202490b23eaae815edcceb09/Shorting/penjelasan/README4.md">latihan 1</a></li>
     <h4>1. code program latihan saya</h4>
     <p>https://github.com/oktomigo/LATIHAN-ASD/blob/42497993a50ed9136e5c398229c0269e987b7317/Shorting/latihan%20atau%20challenge%20Shorting.c</p>
 </body>
