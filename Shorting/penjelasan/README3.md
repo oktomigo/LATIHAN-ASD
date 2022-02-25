@@ -14,7 +14,7 @@
      <br>c. langkah ketiga program kembali mencari data terkecil dari data ketiga sampai data terakhir, lalu tukar nilainya dengan data yang ketiga.
      <br>d. Begitu seterusnya sampai semua data menjadi terurut. Apabila ada N buah data yang akan kita diurutkan, maka kita butuh N-1 langkah pengurutan, dengan data yang                     terakhir, yaitu data ke N tidak perlu diurutkan sebab nilainya sudah pasti yang terkecil.
     <h4>2. kode program</h4>
-    <br>https://github.com/oktomigo/LATIHAN-ASD/blob/fcb3e060433a93367d220a837756cb0c3f20e7d3/Shorting/Selection%20Sort.c</br>
+    https://github.com/oktomigo/LATIHAN-ASD/blob/fcb3e060433a93367d220a837756cb0c3f20e7d3/Shorting/Selection%20Sort.c
     <li><a href="#latihan">latihan 1</a></li>
 </body>
 </html>
