@@ -15,6 +15,8 @@
      <br>d. Begitu seterusnya sampai semua data menjadi terurut. Apabila ada N buah data yang akan kita diurutkan, maka kita butuh N-1 langkah pengurutan, dengan data yang                     terakhir, yaitu data ke N tidak perlu diurutkan sebab nilainya sudah pasti yang terkecil.
     <h4>2. kode program</h4>
     <p>https://github.com/oktomigo/LATIHAN-ASD/blob/fcb3e060433a93367d220a837756cb0c3f20e7d3/Shorting/Selection%20Sort.c</p>
+    <h4>3. printscreen program</h4>
+    <img src="selection sort.png" />
     <li><a href="#latihan">latihan 1</a></li>
 </body>
 </html>
