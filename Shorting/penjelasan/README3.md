@@ -16,7 +16,7 @@
     <h4>2. kode program</h4>
     <p>https://github.com/oktomigo/LATIHAN-ASD/blob/fcb3e060433a93367d220a837756cb0c3f20e7d3/Shorting/Selection%20Sort.c</p>
     <h4>3. printscreen program</h4>
-    <img src="selection sort.png" />
+    <p>(https://user-images.githubusercontent.com/99226882/155778734-b06f0111-aa39-4749-8ee2-e70b0ed1be14.png)</p>
     <li><a href="https://github.com/oktomigo/LATIHAN-ASD/blob/50c0b5c26837c8bb202490b23eaae815edcceb09/Shorting/penjelasan/README4.md">latihan 1</a></li>
 </body>
 </html>
