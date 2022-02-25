@@ -3,15 +3,7 @@
     <h2>Shorting</h2>
 </head>
 <body>
-    <li><a href="#bubble sort.md">Bubble Sord</a></li>
-    <li><a href="#insertion sort">Insertion Sort</a></li>
-    <li><a href="#Selection sort">Selection Sort</a></li>
-    <li><a href="#latihan">latihan 1</a></li>    
-</body>
-</html>
-
-#bubble sort
-1. pengertian
+    <li><a href="1. pengertian
 Bubble Sort adalah salah satu algoritma pengurutan dimana melakukan penukaran data dengan sebelahnya secara berulang-ulang sampai semua terurut dengan benar. Untuk mengetahui proses pengurutan ada dibagian kesimpulan.
 
 3. code program
@@ -50,4 +42,9 @@ Bubble Sort adalah salah satu algoritma pengurutan dimana melakukan penukaran da
         cetak(array,input);
         printf("\n");
     }
-    </p>
+    </p>">Bubble Sord</a></li>
+    <li><a href="#insertion sort">Insertion Sort</a></li>
+    <li><a href="#Selection sort">Selection Sort</a></li>
+    <li><a href="#latihan">latihan 1</a></li>    
+</body>
+</html>
