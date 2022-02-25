@@ -4,7 +4,7 @@
 </head>
 <body>
     <li><a href="https://github.com/oktomigo/LATIHAN-ASD/blob/d0da7738dd982c276d4d6d6b9b30c1ac7da296c9/Shorting/penjelasan/README1.md">Bubble Sord</a></li>
-    <li><a href="#insertion sort">Insertion Sort</a></li>
+    <li><a href="https://github.com/oktomigo/LATIHAN-ASD/blob/e2b1a59ddeb56ea61e7c6f37d5763066d3cc618d/Shorting/penjelasan/README2.md">Insertion Sort</a></li>
     <li><a href="https://github.com/oktomigo/LATIHAN-ASD/blob/ad81bdce42aaef6345468c8843f5652a0673de8f/Shorting/penjelasan/README3.md">Selection Sort</a></li>
     <li><a href="#latihan">latihan 1</a></li>
     <h4>1. code program latihan saya</h4>
