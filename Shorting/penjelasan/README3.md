@@ -5,7 +5,7 @@
 <body>
     <li><a href="#Bubble Sort">Bubble Sord</a></li>
     <li><a href="#insertion sort">Insertion Sort</a></li>
-    <li><a href="#Selection sort">Selection Sort</a></li>
+    <li><a href="https://github.com/oktomigo/LATIHAN-ASD/blob/6ee9c271af21c24e45d59d8263fb678ea6ad8924/Shorting/penjelasan/README3.md">Selection Sort</a></li>
     <h4>1. penjelasan</h4>
      Selection Sort merupakan salah satu algoritma sorting yang populer dan cukup sering digunakan.
      berikut algoritma dari selection sort
