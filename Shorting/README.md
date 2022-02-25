@@ -1,6 +1,6 @@
 <html>
 <head>
-    <title>Shorting</title>
+    <h2>Shorting</h2>
 </head>
 <body>
     <li><a href="#Bubble Sort">Bubble Sord</a></li>
