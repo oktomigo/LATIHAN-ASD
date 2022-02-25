@@ -13,6 +13,7 @@
     <br>d. kemudian program akan melalukan langkah nomer 2 hingga program selesai
     <h4>2. code program</h4>
     <p>https://github.com/oktomigo/LATIHAN-ASD/blob/4704663352300e7dd4d7cd8a4a5f9971b3822b1e/Shorting/Bubble%20Sort.c</p>
+    <img src="bubble sort.png" />
     <li><a href="#insertion sort">Insertion Sort</a></li>
     <li><a href="#Selection sort">Selection Sort</a></li>
     <li><a href="#latihan">latihan 1</a></li>   
