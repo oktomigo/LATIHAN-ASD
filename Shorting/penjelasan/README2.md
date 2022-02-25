@@ -17,7 +17,7 @@
     <h4>2. https://github.com/oktomigo/LATIHAN-ASD/blob/c7cb2f34579d0975c645c002d1702ae8b5b1bf29/Shorting/Insertion%20Sort.c</h4>
     <h4>3. printscreen program</h4>
     <img src="insertion sort.png" />
-    <li><a href="">Selection Sort</a></li>
+    <li><a href="https://github.com/oktomigo/LATIHAN-ASD/blob/05605d27572be053f7ce4d9f800ed6e3864ceb98/Shorting/penjelasan/README3.md">Selection Sort</a></li>
     <li><a href="#latihan">latihan 1</a></li>
 </body>
 </html>
