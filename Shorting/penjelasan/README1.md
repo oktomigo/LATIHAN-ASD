@@ -5,7 +5,7 @@
 <body>
     <li><a href="#Bubble Sort">Bubble Sord</a></li>
     <h4>1. pengertian</h4>
-    <br>Bubble Sort adalah salah satu algoritma pengurutan dimana melakukan penukaran data dengan sebelahnya secara berulang-ulang sampai semua terurut dengan benar. Untuk             mengetahui proses pengurutan ada dibagian kesimpulan.
+    Bubble Sort adalah salah satu algoritma pengurutan dimana melakukan penukaran data dengan sebelahnya secara berulang-ulang sampai semua terurut dengan benar. Untuk             mengetahui proses pengurutan ada dibagian kesimpulan.
     <br>algoritma bubble sort
     <br>a. program akan membandingkan nilai data ke-1 dan data ke-2
     <br>b. apabila data ke-1 lebih besar dari data ke-2 maka program akan menukar posisi dari data ke-1 ke posisi data ke-2
