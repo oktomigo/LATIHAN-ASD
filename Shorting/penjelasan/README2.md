@@ -14,8 +14,8 @@
            Kartu yang telah dibandingkan akan bergeser mundur.
     <br>e. Proses ini akan terus berlangsung sampai semua kartu terurut dengan benar sesuai kriteria pengurutannya.
     <br>f. Setelah semua kartu terurut, satu set kartu yang sudah terurut akan disimpan kembali ke meja.
-    <li><a href="#Selection sort">Selection Sort</a></li>
-    <li><a href="#latihan">latihan 1</a></li>  
     <h4>2. https://github.com/oktomigo/LATIHAN-ASD/blob/4704663352300e7dd4d7cd8a4a5f9971b3822b1e/Shorting/Bubble%20Sort.c</h4>
+    <li><a href="#Selection sort">Selection Sort</a></li>
+    <li><a href="#latihan">latihan 1</a></li>
 </body>
 </html>
