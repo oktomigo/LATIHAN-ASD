@@ -3,7 +3,7 @@
     <h2>Shorting</h2>
 </head>
 <body>
-    <li><a href="#Bubble Sort">Bubble Sord</a></li>
+    <li><a href="https://github.com/oktomigo/LATIHAN-ASD/blob/0e898534cbfea23dd451e106181eabea76b25f0a/Shorting/penjelasan/README1.md">Bubble Sord</a></li>
     <li><a href="#insertion sort">Insertion Sort</a></li>
     <h4>1. penjelasan</h4>
       Insertion Sort adalah sebuah algoritma pengurutan(sorting) baik ascending maupun descending yang bekerja layaknya bermain kartu menggunakan tangan.
