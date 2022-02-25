@@ -11,7 +11,7 @@
     <br>b. apabila data ke-1 lebih besar dari data ke-2 maka program akan menukar posisi dari data ke-1 ke posisi data ke-2
     <br>c. Kemudian data yg lebih besar tadi dibandingkan dengan data ke-3
     <br>d. kemudian program akan melalukan langkah nomer 2 hingga program selesai
-    <h4>e. code program</h4>
+    <h4>2. code program</h4>
     <p>https://github.com/oktomigo/LATIHAN-ASD/blob/4704663352300e7dd4d7cd8a4a5f9971b3822b1e/Shorting/Bubble%20Sort.c</p>
     <li><a href="#insertion sort">Insertion Sort</a></li>
     <li><a href="#Selection sort">Selection Sort</a></li>
