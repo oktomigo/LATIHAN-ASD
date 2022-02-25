@@ -15,7 +15,7 @@
     <p>https://github.com/oktomigo/LATIHAN-ASD/blob/4704663352300e7dd4d7cd8a4a5f9971b3822b1e/Shorting/Bubble%20Sort.c</p>
     <h4>3. printscreen program</h4>
     <img src="bubble sort.png" />
-    <li><a href="#insertion sort">Insertion Sort</a></li>
+    <li><a href="https://github.com/oktomigo/LATIHAN-ASD/blob/962875452aa3e7f2e46073b34e6d462f0516ab05/Shorting/penjelasan/README2.md">Insertion Sort</a></li>
     <li><a href="#Selection sort">Selection Sort</a></li>
     <li><a href="#latihan">latihan 1</a></li>   
 </body>
