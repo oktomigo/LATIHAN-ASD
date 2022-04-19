@@ -69,8 +69,8 @@ int main() {
 
   do {
     system("cls"); // bersihkan layar
-    printf("\tPROGRAM TREE Bahasa C");
-    printf("\n\t=====================");
+    printf("PROGRAM TREE Bahasa C");
+    printf("\n=====================");
     printf("\nMENU");
     printf("\n----\n");
     printf("1. Input Data\n");
